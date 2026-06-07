@@ -7,7 +7,7 @@ while True:
     url ="http://www.omdbapi.com/?"
     params = {
     "t" : movie_name,
-    "apikey" : "cd8f0024"
+    "apikey" : "your_api_key"
     }
     response = requests.get(url,params=params)
     data = response.json()
