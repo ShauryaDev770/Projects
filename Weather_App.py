@@ -10,7 +10,7 @@ while True:
 
     params = {
     "q" : city_name,
-    "appid" : "2d4b12f7677dd9c521c7cd119dacf347",
+    "appid" : "Your_appid",
     "limit" : 1
     }
 
